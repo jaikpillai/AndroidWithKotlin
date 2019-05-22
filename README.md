@@ -1,4 +1,5 @@
 # AndroidWithKotlin
 A list of apps build for Android using Kotlin
 
-![](Screenshot_1558516653.png)
+
+<img src = "Screenshot_1558516653.png" width = "500">
